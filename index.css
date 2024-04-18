@@ -34,4 +34,10 @@ ul li{
     border-radius: 50%;
 
 }
-img
+#js{
+    border-radius: 50%;
+}
+
+.tools-lang{
+    font-style: italic;
+}
